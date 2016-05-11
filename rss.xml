@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DoughWood]]></title>
-        <description><![CDATA[DoughWood]]></description>
+        <title><![CDATA[Wooden Playdough Tools]]></title>
+        <description><![CDATA[Wooden Playdough Tools]]></description>
         <link>https://thegrid.ai/doughwood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 12:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 12:40:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doughwood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What We Do]]></title>
+            <description><![CDATA[<article><h1>What We Do</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17aea794-d62f-474e-9acd-097020560e2c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/doughwood/what-we-do/index.html</link>
+            <guid isPermaLink="false">65900fea-f19b-4c62-a429-8fa0d89ae44f</guid>
+            <pubDate>Wed, 11 May 2016 12:40:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/910c6cba-3a9a-499a-825a-bbdf1e01b464.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/doughwood/wooden-gingerbread-boy-stamp/index.html</link>
             <guid isPermaLink="false">a5adf8b7-7258-4daa-91c3-afe9efaa957b</guid>
             <pubDate>Wed, 11 May 2016 12:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Do  ]]></title>
-            <description><![CDATA[<article><h1>What We Do  </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17aea794-d62f-474e-9acd-097020560e2c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/doughwood/what-we-do/index.html</link>
-            <guid isPermaLink="false">65900fea-f19b-4c62-a429-8fa0d89ae44f</guid>
-            <pubDate>Wed, 11 May 2016 12:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
