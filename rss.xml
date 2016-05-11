@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DoughWood]]></title>
         <description><![CDATA[DoughWood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/doughwood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 12:15:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 12:16:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/doughwood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wooden Gingerbread Boy Stamp]]></title>
+            <description><![CDATA[<article><h1>Wooden Gingerbread Boy Stamp</h1><p>Hand-crafted from Indian Rosewood, a sustainable hard wood.</p></article>]]></description>
+            <link>https://thegrid.ai/doughwood/wooden-gingerbread-boy-stamp/index.html</link>
+            <guid isPermaLink="false">a5adf8b7-7258-4daa-91c3-afe9efaa957b</guid>
+            <pubDate>Wed, 11 May 2016 12:16:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What We Do  ]]></title>
             <description><![CDATA[<article><h1>What We Do  </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17aea794-d62f-474e-9acd-097020560e2c.jpg"></article>]]></description>
-            <link>undefinedwhat-we-do/index.html</link>
+            <link>https://thegrid.ai/doughwood/what-we-do/index.html</link>
             <guid isPermaLink="false">65900fea-f19b-4c62-a429-8fa0d89ae44f</guid>
             <pubDate>Wed, 11 May 2016 12:15:05 GMT</pubDate>
         </item>
